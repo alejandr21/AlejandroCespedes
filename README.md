@@ -1,4 +1,3 @@
-### Hi there 
 <h1 align="center">Hi 👋, I'm Alejandro Cespedes</h1>
 <h3 align="center">Technology Specialist in Cyber Security Operations at Telus</h3>
 
